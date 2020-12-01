@@ -1,8 +1,8 @@
-# check_return_parameter
+# check_return_parameter py function
 
 returns value if present in list of given valid values.
-	- if list of dicts, a key can be given to do a key:value check and return the valid dict.
-	- a default value can be given to be returned in case of no match.
+* if list of dicts, a key can be given to do a key:value check and return the valid dict.
+* a default value can be given to be returned in case of no match.
 
 
 ```python
